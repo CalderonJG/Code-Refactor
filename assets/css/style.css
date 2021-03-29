@@ -37,18 +37,17 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/*css for anchor tags*/
+/* css for anchor tags */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/*used for links on nav bar*/
+/* used for links on nav bar */
 a:hover {
         color: peachpuff;
 }
 
-/*all text css*/
 p {
     font-size: 16px;
     line-height: 1.5;
@@ -56,17 +55,17 @@ p {
     display: inline;
 }
 
-/*background image*/
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
+/* background image */
+
+.hero img{
     background-image: url("./assets/images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    height: 925px;
+    width: 1700px;
+    margin: 15px 0 15px 0;
+    position: center;
     background-color: #cccccc;
 }
-/*used for floating "content" images */
+/* used for floating "content" images */
 .float-left {
     float: left;
     margin-right: 55px;
@@ -77,7 +76,7 @@ p {
     margin-left: 55px;
 }
 
-/*all ccs properties for "benefits" class(sidebar)*/
+/* styling for "benefits" class(sidebar) */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -138,7 +137,7 @@ p {
     max-height: 200px;
 }
 
-/*all css properties for "content" class(info under background img)*/
+/* styling for "content" class(info under background img) */
 .content{
     padding: 0;
     margin: 0;
@@ -207,7 +206,7 @@ p {
     font-size: 36px;
 }
 
-/*all css properties for footer css*/
+/* styling for footer */
 footer {
     padding: 30px;
     clear: both;
