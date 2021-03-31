@@ -1,6 +1,6 @@
 # Code-Refactor
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
-![Screenshot](./assets/images/mainpage-snip.png)
+![Screenshot](./assets/images/mainpage-snip.PNG)
 
 
 ---
